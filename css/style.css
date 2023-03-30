@@ -10,7 +10,7 @@
 }
 .main-container{
     margin: 0 auto;
-    width: 65%;
+    width: 75%;
     margin-top: 2rem;
 }
 h1{
@@ -33,19 +33,19 @@ p.lorem{
 }
 .box-image-upper{
     background-color: #0f0e17;
-    width: 33.3%;
+    width: 30.3%;
     height: 48%;
     float: left;
-    margin: 0 0;
+    margin: 0 12px;
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
 }
 .box-image-lower{
     background-color: #0f0e17;
-    width: 33.3%;
+    width: 30.3%;
     height: 48%;
     float: left;
-    margin: 0 0;
+    margin: 0 12px;
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 div>img{
