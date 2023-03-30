@@ -19,16 +19,46 @@ h1{
     padding-bottom: 2rem;
     font-family: 'Lilita One', cursive;
 }
-p{
+p.lorem{
     color: black;
     text-align: center;
     padding-bottom: 2rem;
     font-family: 'Ubuntu', sans-serif;
-    font-size: 0.8rem;
+    font-size: 100%;
 }
 .box-container{
-    background-color: blueviolet;
-    width: 98%;
+    border: 2px solid magenta;
+    width: 100%;
     height: 180px;
     margin: 0 auto;
+}
+.box-image{
+    background-color: #0f0e17;
+    width: 30%;
+    height: 48%;
+    float: left;
+    margin: 0 1%;
+    box-shadow: #0f0e17;
+}
+div>img{
+    height: 100%;
+    float: left;
+    margin-right: 15px;
+}
+h2{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.1rem;
+}
+p.email{
+    color: #228acc;
+    font-family: 'Nunito', sans-serif;
+}
+p.profession{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+.text{
+    line-height: 1.4rem;
+    font-size: 0.8rem;
 }
